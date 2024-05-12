@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mycargame</string>
+    <string name="score_0">Score : 0</string>
+    <string name="start">Start</string>
+    <string name="high_score_0">High Score: 0</string>
+    <string name="play_again">Play Again</string>
+    <string name="score__0">Score: 0</string>
+</resources>
